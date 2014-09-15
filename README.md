@@ -1,3 +1,4 @@
-Projeto fase 2 do curdo de php.
+Projeto do Fixture do curso de php.
 
-Trabalhando com Rotas
+Acesse o arquivo Core/Config.php para configurar o acesso ao banco de dados MYSQL,
+depois digite no seu navegador seudominio/fixture.php.
